@@ -1,0 +1,6 @@
+keyword,reported_monthly_volume,reported_kd,reported_intent,source_id,source_status,portfolio_priority,revision_date
+food boxes,3600,24,Commercial,S03,coursework-reported; export unavailable,Validate first; broad intent,2026-11-06
+food box delivery,1300,41,Commercial,S03,coursework-reported; export unavailable,Validate first; recipe-box fit,2026-11-06
+meal prep services,4400,51,Commercial,S03,coursework-reported; export unavailable,Secondary; prepared-meal mismatch risk,2026-11-06
+meal prep delivery,2900,60,Commercial,S03,coursework-reported; export unavailable,Defer pending intent and effort checks,2026-11-06
+meal prep companies,1300,59,Commercial,S03,coursework-reported; export unavailable,Defer pending intent and effort checks,2026-11-06
