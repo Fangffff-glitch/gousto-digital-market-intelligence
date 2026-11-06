@@ -1,30 +1,24 @@
 # Scope, provenance and attribution
 
-## Included work
+## Research coverage
 
-| Original workstream | Portfolio treatment |
-|---|---|
-| MSIN0305 individual digital marketing assignment | Selected findings, source figures and revised interpretation. |
-| MSIN0308 intelligence sourcing and scanning | My work across market, advertising, consumer and technology sources. |
-| MSIN0308 individual AI disclosure | My own account only; paraphrased with its evidential limits. |
-| MSIN0308 framing/decision context and report integration/review | The contribution log assigns these jointly; I confirm that I wrote these sections. |
-| Other members' individually attributed interpretation, decision-formulation and scenario sections | Not reproduced or attributed to me. The integrated decision framework in this repository is newly written and dated as a portfolio extension. |
+This project presents my work on search and competitor analysis, technical SEO, intelligence sourcing, research framing, AI-output review and evidence integration. The published material is selected and rewritten as a connected research project; it is not a reproduction of the underlying reports.
 
-The full assignments, candidate numbers, other students' reflections, meeting records and assessor comments are not published. The revision log paraphrases feedback relevant to improving this case.
+The action and measurement framework includes later analytical refinements. These are recorded separately from the historical data collection and do not imply that recommendations were implemented.
 
 ## Timing and comparability
 
 - The separate SEMrush domain screenshot displays **7 May 2026**, UK, desktop.
-- The competitor comparison in MSIN0305 Appendix A3 displays **12 May 2026**, UK, desktop.
-- The technical crawl in Appendix B shows **12 May 2026**, mobile, JavaScript rendering disabled. The performance panel is Lighthouse-based mobile emulation.
-- MSIN0308 was a separate study. The retained bibliography mixes source years; exact item collection dates and uniform sampling windows were not recovered. Its observations must not be treated as a May 2026 cohort or merged statistically with the SEO snapshots.
+- The retained competitor comparison (source S01) displays **12 May 2026**, UK, desktop.
+- The retained technical crawl (source S04) shows **12 May 2026**, mobile, JavaScript rendering disabled. The performance panel is Lighthouse-based mobile emulation.
+- The market intelligence phase ran in February–March 2026: the project log records meetings from 18 February through 17 March, and a bibliography entry records access on 16 March 2026. These establish the project period, not exact capture dates for every source. The bibliography mixes source years; uniform sampling windows were not recovered. Its observations must not be treated as a May 2026 cohort or merged statistically with the SEO snapshots.
 - Portfolio revision and technical-documentation checks: **6 November 2026**. This is not a current commercial audit of Gousto.
 
 ## Evidence labels
 
 **Screenshot-checked:** the reported value was checked against a retained original screenshot during this revision. This confirms transcription, not the accuracy of the underlying third-party estimate.
 
-**Coursework-reported:** present in the original written analysis, but the precise supporting export or source item was not independently recovered.
+**Report-recorded (labelled coursework-reported in the original evidence register):** present in the original written analysis, but the precise supporting export or source item was not independently recovered.
 
 **Disclosure-reported:** the original individual disclosure describes a process or interpretation; a full prompt/output transcript is unavailable.
 
