@@ -1,6 +1,6 @@
 # Market intelligence review
 
-This page develops my original MSIN0308 sourcing, framing and integration work. The judgements and proposed decision rules below were revised on **6 November 2026**; they are not presented as the original group decisions or as a new collection of customer evidence.
+**Research period: February–March 2026.** This review brings together my market research, source evaluation and evidence integration. The retained project log runs from 18 February to 17 March. Later judgement refinements are dated in the revision log; this page does not represent a new collection of customer evidence.
 
 ## Decision context
 
