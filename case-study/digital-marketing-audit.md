@@ -1,6 +1,6 @@
 # Digital marketing audit
 
-Historical observations from my individual MSIN0305 assignment; interpretation revised on 6 November 2026. Evidence IDs refer to the [register](../evidence/evidence-register.csv).
+**Research period: May 2026.** This audit examines Gousto’s historical search visibility, competitive position and website experience. Later interpretation changes are documented in the revision log. Evidence IDs refer to the [register](../evidence/evidence-register.csv).
 
 ## 1. Competitive position: translate scale into choices
 
