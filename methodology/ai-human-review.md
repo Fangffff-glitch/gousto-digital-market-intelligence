@@ -2,7 +2,7 @@
 
 ## A documented individual example
 
-The MSIN0308 individual disclosure associated with my contribution records Gemini being used to scan and summarise acquisition, positioning and consumer sentiment. It describes an AI interpretation of strong loyalty driven by personalisation and digital marketing, followed by my challenge using advertising and consumer-discussion sources.
+My retained research disclosure from the February–March 2026 intelligence phase records Gemini being used to scan and summarise acquisition, positioning and consumer sentiment. It describes an AI interpretation of strong loyalty driven by personalisation and digital marketing, followed by my challenge using advertising and consumer-discussion sources.
 
 This is a **paraphrase of a retained disclosure**, not a verbatim model transcript. The original prompts, full outputs and an item-level archive of the cited ads/posts were not recovered for this portfolio. No replacement dialogue has been invented.
 
@@ -24,6 +24,6 @@ A useful outcome may be “unresolved”. Two competing narratives can both exce
 
 ## AI disclosure by stage
 
-- **Original MSIN0305:** the assignment acknowledges Gemini for language refinement, table formatting and clarification of SEMrush terminology; collection and analysis were described as my own work.
-- **Original MSIN0308:** my individual disclosure records Gemini-assisted scanning and summarisation, followed by comparison with other sources.
+- **May 2026 digital audit:** the research record acknowledges Gemini for language refinement, table formatting and clarification of SEMrush terminology; collection and analysis were described as my own work.
+- **February–March 2026 intelligence research:** my individual disclosure records Gemini-assisted scanning and summarisation, followed by comparison with other sources.
 - **This portfolio revision:** Codex assisted with organisation, writing, evidence transcription checks and technical-reference checks on 6 November 2026. The revision is disclosed separately from the original work. New recommendations are proposals, not historical actions or measured results.
