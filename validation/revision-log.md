@@ -28,3 +28,7 @@ The revision improves analysis and traceability; it does not manufacture missing
 ## Scope protection
 
 Only the author's individual and confirmed jointly listed writing is used as original contribution. Other members' individually attributed work and the full coursework are excluded. The new integrated decision/measurement framework is labelled as a portfolio extension.
+
+## Project presentation update — 6 November 2026
+
+Expanded the README into a self-contained project overview covering tools, research methods, four-brand benchmarking, five keyword candidates, technical issues, page-performance results and proposed actions. Removed course-code and assignment-led introductions from the main project narrative. Recovered the February–March 2026 intelligence-project period from the retained meeting log (18 February–17 March) and the dated bibliography; retained May 2026 for the SEO snapshots. Presentation changes do not change the original data dates or imply new data collection.
